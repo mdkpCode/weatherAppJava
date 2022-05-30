@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="last_updated">Ostatnia aktualizacja: —/—/---- --:-- PM</string>
+    <string name="location">Lokalizacja</string>
+    <string name="enter_location">Podaj miejscowość…</string>
+    <string name="szukaj">Szukaj</string>
+    <string name="sunriseText">Wschód</string>
+    <string name="sunsetText">Zachód</string>
+    <string name="wind">Wiatr</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="sunset">Zachód</string>
+    <string name="createdBy">Twórca</string>
+    <string name="start">Start</string>
+    <string name="_24_h">24 H</string>
+    <string name="creator">Tomasz</string>
+    <string name="seven_day_weather">7 DNI</string>
+    <string name="weatherDescription">-</string>
+    <string name="blankField">--</string>
+    <string name="blankFieldTemp">--.--°C</string>
+
+</resources>
